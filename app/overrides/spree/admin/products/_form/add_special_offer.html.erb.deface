@@ -1,0 +1,4 @@
+<!-- insert_bottom "[data-hook='admin_product_form_option_types']" -->
+    <%= f.label :special %>
+    <%= f.check_box :special %>
+<!-- enabled -->
